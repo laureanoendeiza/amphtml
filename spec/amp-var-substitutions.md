@@ -1295,7 +1295,7 @@ Provides the viewport width in pixels available for the page rendering. In contr
   - Example: <br>
   ```html
   <amp-pixel
-    src="https://foo.com/pixel?viewportHeight=VIEWPORT_HEIGHT"
+    src="https://foo.com/pixel?viewportWidth=VIEWPORT_WIDTH"
   ></amp-pixel>
   ```
 - **amp-analytics variable**: `${viewportWidth}`
